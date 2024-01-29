@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XXXTONG
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Computer Vision& Image Processing
+- 🌱 I’m currently learning AI&ML @University of Birmingham
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
